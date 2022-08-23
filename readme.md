@@ -1,14 +1,10 @@
-This is read me file!
+# libraries that i used
 
-How i approached to this problem?
-
-libraries that i used
-
--selenium web driver
--pandas
-- beautiful soup 4
--python language
--amazon links for web scrapping
+## selenium web driver
+## pandas
+## beautiful soup 4
+## python language
+## amazon links for web scrapping
 
 1. imported all the libraries and installed web driver in the jupyter notebook
 
